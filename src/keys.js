@@ -1,0 +1,5 @@
+export const REACT_APP_WEATHER_API_KEY = 'ac0697a0930fd94c7d29857e5edf28d8'
+export const REACT_APP_GOOGLE_API_KEY = 'AIzaSyB46D_3SlcHpsqppJZV2lNlnIrDaPULsF0'
+export const REACT_ADRESS_API_KEY = 'H6XyiCT0w1t9GgTjqhRXxDMrVj9h78ya3NuxlwM7XUs'
+export const REACT_YANDEX_API_KEY = '6aa4b6e3-52e1-41d4-9cd2-70a55dcebdb1'
+export const REACT_GRAPHHOPPER_API_KEY = '6aa4b6e3-52e1-41d4-9cd2-70a55dcebdb1' 
