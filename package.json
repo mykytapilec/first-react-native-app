@@ -1,12 +1,11 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject",
-    "build": "webpack --mode production",
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development"
+    "eject": "expo eject"
   },
   "dependencies": {
     "@react-native-community/art": "^1.2.0",
